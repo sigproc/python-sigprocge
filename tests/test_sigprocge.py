@@ -1,5 +1,5 @@
 import unittest
-import sample
+import sigprocge
 
 class TestSimple(unittest.TestCase):
     def test_failure(self):
